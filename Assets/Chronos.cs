@@ -295,6 +295,7 @@ string[] greekGodsTraits = {
     }
     
    void Activate () { //Shit that should happen when the bomb arrives (factory)/Lights turn on
+    Audio.PlaySoundAtTransform("timewarp", Buttons[0].transform); //To be cool IG
     SelectGod();
     DetermineWatchBorderWithoutLogging(godIndex);
     DetermineTraitAfterAll();

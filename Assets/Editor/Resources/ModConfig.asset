@@ -14,11 +14,12 @@ MonoBehaviour:
   id: chronosModule
   title: Chronos
   author: cameron
-  description: "Chronos 1.2\n\"Your cries fall on deaf ears. Fear not, my son. I have
-    not solved any module.\" - Chronos\n\r\nChronus has demanded the defuser to select
-    traits and equivalents of a Greek God. Chronus is a wise God, however, and has
-    shifted some of the options around.\n\r\nReport bugs to cameronos on Discord.\r\n\r\nModule
-    ID: chronos\rModule\nCreated by, Idea: cameronos"
-  version: 1.2
+  description: "Chronos 1.3\n\"Your cries fall on deaf ears. Fear not, my son. I have
+    not solved any module.\" - Chronos\n\r\nChronos has demanded the defuser to select
+    traits and equivalents of a Greek God. Chronos is a wise God, however, and has
+    shifted some of the options around.\n\r\nManual included in game files, also on
+    ktane.timwi.de\nReport bugs to cameronos on Discord.\r\n\r\nModule ID: chronos\rModule\nCreated
+    by, Idea: cameronos"
+  version: 1.3
   outputFolder: build
   previewImage: {fileID: 2800000, guid: f828bb339e2592449a905c9b0f4785d5, type: 3}
